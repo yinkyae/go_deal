@@ -1,0 +1,66 @@
+
+～～～～様
+お疲れ様です。
+
+（YYYY /MM /DD）の進捗を報告致します。
+
+担当者　　　タスク　　　　　　完了％
+ーーー　　　ーーー　　　　　　ーーー
+Linn Ko        ログイン画面　　　　１０％
+
+
+問題
+＝＝＝
+DBに繋がらない。
+
+
+解決方法
+＝＝＝＝
+再起動してまた起動しました。
+
+
+次のタスク
+＝＝＝＝＝
+担当者　　　タスク　　　予定完了％
+ーーー　　　ーーー　　　ーーーーー
+Linn Ko        ログイン画面　　　２０％
+
+
+以上です。
+宜しくお願い致します。
+グループ名
+担当者
+--------------------------------------------
+
+～～～～,
+
+I will report the progress of (YYYY /MM /DD).
+
+Person in charge     Task       Complete %
+ーー ー ー ー ー ー     ー ー      ー ー ー ー
+Linn Ko          Screen Design      50%
+
+
+Problem
+===
+Doesn't connect to DB.
+
+
+Solution
+====
+I rebooted and started again.
+
+
+Next task
+=====
+Person in charge     Task       Estimated completion %
+ーーーーーーーーーー    ーーー     ーーーーーーーーーーーー
+Linn Ko           login screen         20%
+
+
+That's all.
+Thank you.
+
+<<group name>>
+Writer
+

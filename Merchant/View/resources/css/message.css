@@ -1,0 +1,9 @@
+.message{
+    color:white !important;
+    background-color: #F25D3B;
+    border-radius: 8px;
+}
+
+.messageicon{
+  fill: #FFFFFF !important;
+}

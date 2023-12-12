@@ -1,0 +1,73 @@
+.dashboard{
+    color:white !important;
+    background-color: #F25D3B;
+    border-radius: 8px;
+}
+.dashboardicon{
+  fill: #FFFFFF !important;
+}
+/* ========================================================================== */
+.chart-container {
+    width: 250px;
+  }
+  
+  .programming-stats {
+    font-family: "Roboto Slab";
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    /* gap: 20px; */
+    margin: 10 auto;
+    width: auto-fit;
+    /* box-shadow: 0 4px 13px -2px rgba(0, 0, 0, 10); */
+    /* border-radius: 20px; */
+    /* padding: 8px 32px; */
+    color: #51459E;
+    /* transition: all 400ms ease; */
+  }
+  
+  /* .programming-stats:hover {
+    transform: scale(1.02);
+    box-shadow: 0px 4px 16px -7px rgba(0, 0, 0, 0.3);
+  } */
+  
+  .programming-stats .details ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .programming-stats .details ul li {
+    font-size: 12px;
+    margin: 18px 0;
+    text-transform: uppercase;
+  }
+  
+  .programming-stats .details .percentage {
+    font-weight: 700;
+    color: #e63946;
+  }
+
+/* ================================ */
+
+  .charts-card {
+    background-color: #FFFFFF;
+    margin-bottom: 20px;
+    padding:4px;
+    box-sizing: border-box;
+    -webkit-column-break-inside: avoid;
+    border-radius: 15px;
+    box-shadow: 0 4px 20px -7px rgba(0, 0, 0, 0.5);
+    width: 600px;
+    height: 400px;
+  }
+  
+  .chart-title {
+    display: flex;
+    
+    margin-left: 20px;
+    margin-top: 8px;
+    /* justify-content: center; */
+    color:#51459E;
+    font-weight: 500;
+  }
+  

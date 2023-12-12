@@ -1,0 +1,5 @@
+.disabled-li {
+    pointer-events: none; 
+    color: rgb(215, 190, 190);
+    
+}
